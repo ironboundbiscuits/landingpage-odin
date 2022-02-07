@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+.top-header {
+    display: flex;
+    flex-direction: row;
+}
+ul { 
+    list-style-type: none;
+}
+li { 
+    float: right;
+    padding: 12px;
+}
+.header-links {
+    margin-left: auto;
+}
+.logo img {
+    max-width: 100px;
+}
